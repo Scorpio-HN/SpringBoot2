@@ -5,5 +5,6 @@ public class UserController {
     public void show(){
         System.out.println(111);
        System.out.println(222);
+        System.out.println("2333");
     }
 }
